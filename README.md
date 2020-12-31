@@ -1,4 +1,5 @@
 # AUTOMATED-HOME-FINANCING
+This was a semester project completed for the course of *MOD-500 Modelling for Decision Insights*, which is mandatory for **MSc. Computational Engineering at Universitetet i Stavanger**.  
 
 # EXECUTIVE SUMMARY 
 Everyday corporations, governments and individuals face different situations in which they need to find
@@ -36,3 +37,14 @@ suitable customer segments and offering them loan package which is most profitab
 calculating the net present value of the interest included in the loan payments. The suitable customer
 segments are defined by using the data from previous deals between different customers and Dream
 Home Financing. 
+
+# ATTACHMENTS
+
+1. “LOAN.csv” – Dataset from Kaggle (https://www.kaggle.com/ninzaami/loan-predication)                                                                                            
+2. “Probabilities and Dependence Assessment.ipynb” – Probability assessment using python                                                                                          
+3. “Chi_Square-LoanTerm.xlsx” – Distribution fit Test to determine probabilities for LOAN Term                                                                                    
+4. “Project.xlsx” – Base case for **Deterministic Analysis**                                                                                                                          
+5. “DA - DreamHouseFinancing.da” – Decision Analysis in DPL                                                                                                                        
+6. “CashFlows and NPV” – **Cashflows and Net Present Value analysis**                                                                                                                                
+7. “Poster.pptx”
+
