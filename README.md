@@ -46,5 +46,7 @@ Home Financing.
 4. “Project.xlsx” – Base case for **Deterministic Analysis**                                                                                                                          
 5. “DA - DreamHouseFinancing.da” – Decision Analysis in DPL                                                                                                                        
 6. “CashFlows and NPV” – **Cashflows and Net Present Value analysis**                                                                                                                                
-7. “Poster.pptx”
+7. “Poster.pptx” - **Project Poster**
+
+8. "ProjectReport-AUTOMATED HOME FINANCING.pdf" - **Final Report**
 
